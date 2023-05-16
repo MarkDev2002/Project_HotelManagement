@@ -1,0 +1,6 @@
+5
+KH2,Huynh Gia Bao,20,nu,032032023098,abc@gmail.com,
+KH1,Ngo Van Tin,18,nam,041234123,nt@gmail.com,
+KH3,NVT,19,nam,093222031,abc@Gmail.com,
+KH4,abc,19,nam,032000432,abc,
+KH5,def,19,nu,034322000,abc,

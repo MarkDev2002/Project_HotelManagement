@@ -1,0 +1,5 @@
+4
+DP3,The tin dung,KH3,9/10/2012,N2 N3 ,2
+DP1,The tin dung,KH1,9/10/2020,V1 ,3
+DP2,Thanh toan truc tiep,KH1,9/9/2000,N1 ,2
+DP4,Thanh toan truc tiep,KH5,9/10/2002,V2 V3 ,3
